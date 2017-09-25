@@ -9,7 +9,6 @@
             "email": "amitm@unoindia.co"
         }
     ],
-    "minimum-stability": "dev",
     "require": {},
     "extra": {
         "laravel": {
