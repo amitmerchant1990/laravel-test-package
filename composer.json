@@ -1,0 +1,21 @@
+{
+    "name": "amitmerchant/calculator",
+    "description": "Test package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amit Merchant",
+            "email": "amitm@unoindia.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Amitmerchant\\Calculator\\CalculatorServiceProvider"
+            ]
+        }
+    }
+}
