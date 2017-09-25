@@ -14,7 +14,7 @@
         "psr-4": {
             "Amitmerchant\\Calculator\\": "amitmerchant/calculator/src/"
         }
-    }
+    },
     "extra": {
         "laravel": {
             "providers": [
