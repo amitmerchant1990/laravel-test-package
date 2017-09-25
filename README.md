@@ -5,7 +5,18 @@ I've created this package to understand the workflow of Laravel Packages and how
 
 ## Install
 
-`$ composer require "amitmerchant/calculator"`
+`$ composer require amitmerchant/calculator=dev-master`
+
+Then add `Amitmerchant\Calculator\CalculatorServiceProvider::class` in `bootstrap/app.php` under _providers_
+
+## Use
+
+Run `php artisan serve`
+
+And then access following URLs:
+
+http://127.0.0.1:8000/add/2/4
+http://127.0.0.1:8000/substract/4/2
 
 ## License
 MIT
