@@ -3,6 +3,7 @@
     "description": "Test package",
     "type": "library",
     "license": "MIT",
+    "keywords": ["laravel", "package"],
     "authors": [
         {
             "name": "Amit Merchant",
